@@ -1,0 +1,1 @@
+SELECT surname FROM users WHERE surname LIKE 'А%' AND salary >= 100000
